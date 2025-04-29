@@ -1,6 +1,11 @@
 # PhishNet: A Rule-Enhanced Machine Learning Approach for Securing Against Phishing Threats
 
 This project is a lightweight Python-based phishing URL detector that checks and blocks suspected phishing sites by analyzing URL patterns, SSL certificates, and domain age. The tool works cross-platform and modifies the system's hosts file to block malicious URLs.
+## 🙌 Contributors
+
+- **Sahil Kadam** – Lead Developer  
+- **Yugandhar S** – Co-Developer, Tester  
+- **Dr. S. Sathya Priya** – Project Guide and Corresponding Author  
 
 ## 🚀 Features
 
