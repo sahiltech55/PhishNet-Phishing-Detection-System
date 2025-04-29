@@ -19,3 +19,7 @@ This project is a lightweight Python-based phishing URL detector that checks and
 
 ```bash
 pip install requests
+
+#Admin privileges are required to modify the hosts file
+
+#Internet access needed to verify domain and SSL info
