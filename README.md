@@ -14,8 +14,10 @@ This project is a lightweight Python-based phishing URL detector that checks and
 - Blocks URLs by adding entries to the local `hosts` file
 - Works on both Windows and Unix systems
 - Simple command-line interface
+## ⚠️ Requirements & Notes
 
-## 🛠 Requirements
+- ✅ **Admin privileges are required** to modify the system `hosts` file and block URLs.
+- 🌐 **Internet access is needed** to verify SSL certificates and fetch WHOIS domain info.
 
 ```bash
 pip install requests
